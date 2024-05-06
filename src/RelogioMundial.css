@@ -1,0 +1,94 @@
+/* RelogioMundial.css */
+
+body {
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    color: #fff;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .card {
+    background-color: #001e33;
+    color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+    width: calc(30% - 40px);
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+  }
+  
+  .card strong {
+    font-weight: bold;
+  }
+  
+  .card span {
+    font-size: 1.5rem;
+  }
+  
+  .add-card {
+    background-color: #001e33;
+    color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+    width: calc(30% - 40px);
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+    overflow: hidden;
+  }
+  
+  .options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    max-height: 90px;
+    overflow-y: scroll;
+    
+  }
+  
+  .options li {
+    margin: 10px;
+  }
+  
+  .options li:hover {
+    background-color: #0055ff;
+    cursor: pointer;
+  }
+  
+  .options button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #001e33;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+  }
+  
+  .options button:hover {
+    background-color: #0055ff;
+  }
+  
