@@ -5,9 +5,6 @@
 - Desenvolver um relógio interativo em ReactJS que exibe a hora em tempo real e permite adicionar múltiplos fusos horários.
 - Oferecer uma experiência de aprendizado prática e envolvente na construção de aplicações web com ReactJS.
 - Capacitar os usuários a acompanharem o horário em diferentes cidades do mundo de forma simples e intuitiva.
-
-  ![image](https://github.com/Saraiva97/Rel-gio-mundial/assets/93497276/99e5bd82-e21f-4beb-befb-c54be49c348e)
-
   
 <br>
 
